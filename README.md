@@ -1,7 +1,7 @@
 rundll32_sampe
 ==============
 
-sample of dll ran by rundll32.exe my be used for fake dll if some dll will be missing
+sample of dll run by rundll32.exe may be used for fake dll if some dll will be missing
 
 Usage
 --------------
